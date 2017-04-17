@@ -34,6 +34,15 @@
                     android:targetClass="@string/additional_system_update_menu" />
         </PreferenceScreen>
 
+        <!-- add Logo RidonOS -->
+        <PreferenceScreen android:key="icon_system_update_settings"
+                          android:title="icon_system_update_settings">
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_ridon_logo" />
+        </PreferenceScreen>
+
         <!-- LineageOS Updates -->
         <cyanogenmod.preference.SelfRemovingPreference android:key="cm_updates"
                 android:title="@string/cmupdate_settings_title"
