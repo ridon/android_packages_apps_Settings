@@ -113,7 +113,7 @@ public class DeviceInfoSettings extends SettingsPreferenceFragment implements In
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.pref_holder, null);
+        return inflater.inflate(R.layout.pref_holder, container);
     }
 
     @Override
