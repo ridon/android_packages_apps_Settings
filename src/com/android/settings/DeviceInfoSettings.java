@@ -35,6 +35,9 @@ import android.telephony.CarrierConfigManager;
 import android.text.TextUtils;
 import android.util.Log;
 import android.widget.Toast;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
 
 import com.android.internal.logging.MetricsProto.MetricsEvent;
 import com.android.settings.dashboard.SummaryLoader;
@@ -106,6 +109,11 @@ public class DeviceInfoSettings extends SettingsPreferenceFragment implements In
     @Override
     protected int getHelpResource() {
         return R.string.help_uri_about;
+    }
+
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+        return inflater.inflate(R.layout.pref_holder, container);
     }
 
     @Override
