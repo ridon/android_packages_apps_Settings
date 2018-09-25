@@ -309,8 +309,8 @@
   <string name="app_ops_reset_confirm_mesg">Sei sicuro di voler reimpostare i contatori?</string>
   <string name="ok">OK</string>
   <string name="security_privacy_settings_title">Sicurezza &amp; privacy</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">Note legali LineageOS</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Note legali Ridon</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Suono regolazione volume</string>
   <!-- Wake on plug -->

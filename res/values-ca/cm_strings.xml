@@ -309,8 +309,8 @@
   <string name="app_ops_reset_confirm_mesg">Estàs segur que vols reinicialitzar comptadors?</string>
   <string name="ok">D\'acord</string>
   <string name="security_privacy_settings_title">Seguretat i privadesa</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">Llicència LineageOS</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Llicència Ridon</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Sons d\'ajust del volum</string>
   <!-- Wake on plug -->

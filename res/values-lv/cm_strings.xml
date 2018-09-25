@@ -160,8 +160,8 @@
   <string name="app_ops_reset_counters">Atstatīt atļaut/aizliegt skaitītāju</string>
   <string name="app_ops_reset_confirm_title">Apstipriniet skaitītāja atstatīšanu</string>
   <string name="ok">Labi</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">LineageOS atbildība</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Ridon atbildība</string>
   <!-- Volume settings - Volume adjustment sound -->
   <!-- Wake on plug -->
   <string name="wake_when_plugged_or_unplugged_title">Pamodināt, iespraužot vadu</string>

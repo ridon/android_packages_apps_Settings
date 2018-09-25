@@ -195,8 +195,8 @@
   <string name="app_ops_reset_confirm_title">Patvirtinkite skaitiklių atstatymą</string>
   <string name="app_ops_reset_confirm_mesg">Ar tikrai norite nustatyti iš naujo skaitiklius?</string>
   <string name="ok">Gerai</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">Teisinė „LineageOS“ informacija</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Teisinė „Ridon“ informacija</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Garsumo reguliavimo garsai</string>
   <!-- Wake on plug -->

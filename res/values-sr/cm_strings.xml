@@ -301,8 +301,8 @@
   <string name="app_ops_reset_confirm_mesg">Заиста желите да поништите бројаче?</string>
   <string name="ok">У реду</string>
   <string name="security_privacy_settings_title">Сигурност &amp; приватност</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">Политика приватности LineageOS-а</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Политика приватности Ridon-а</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Звук при подешавању јачине звука</string>
   <!-- Wake on plug -->

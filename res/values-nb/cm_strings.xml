@@ -283,8 +283,8 @@
   <string name="app_ops_reset_confirm_title">Bekreft tilbakestilling av tellere</string>
   <string name="app_ops_reset_confirm_mesg">Er du sikker på at du vil tilbakestille tellerne?</string>
   <string name="ok">Ok</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">LineageOS juridisk</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Ridon juridisk</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Volum justeringslyd</string>
   <!-- Wake on plug -->

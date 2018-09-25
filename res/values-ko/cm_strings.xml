@@ -308,8 +308,8 @@
   <string name="app_ops_reset_confirm_mesg">정말로 계수치를 초기화합니까?</string>
   <string name="ok">확인</string>
   <string name="security_privacy_settings_title">보안 및 개인 정보 보호</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">LineageOS 법적 고지</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Ridon 법적 고지</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">소리 크기 조정</string>
   <!-- Wake on plug -->

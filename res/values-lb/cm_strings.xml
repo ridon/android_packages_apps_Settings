@@ -239,8 +239,8 @@
   <string name="app_ops_reset_confirm_title">Bestäteg d\'Zrécksetze vun den Zieleren</string>
   <string name="app_ops_reset_confirm_mesg">Wëlls du d\'Compteure sécher zrécksetzen?</string>
   <string name="ok">OK</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">Rechtlech Hiweiser iwwer LineageOS</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Rechtlech Hiweiser iwwer Ridon</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Lautstäerktännerungstoun</string>
   <!-- Wake on plug -->

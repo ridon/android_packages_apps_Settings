@@ -266,8 +266,8 @@
   <string name="app_ops_reset_confirm_title">ยืนยันการรีเซ็ตการนับ</string>
   <string name="app_ops_reset_confirm_mesg">แน่ใจหรือไม่ว่าต้องการรีเซ็ตการนับ</string>
   <string name="ok">ตกลง</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">เกี่ยวกับกฎหมาย LineageOS</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">เกี่ยวกับกฎหมาย Ridon</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">เสียงปรับความดัง</string>
   <!-- Wake on plug -->

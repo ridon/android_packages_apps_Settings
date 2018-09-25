@@ -309,8 +309,8 @@
   <string name="app_ops_reset_confirm_mesg">Wollen Sie die Zähler wirklich zurücksetzen?</string>
   <string name="ok">OK</string>
   <string name="security_privacy_settings_title">Sicherheit &amp; Datenschutz</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">Rechtliche Hinweise zu LineageOS</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Rechtliche Hinweise zu Ridon</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Ton bei Lautstärkeänderung</string>
   <!-- Wake on plug -->

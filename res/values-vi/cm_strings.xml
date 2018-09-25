@@ -308,8 +308,8 @@
   <string name="app_ops_reset_confirm_mesg">Bạn có chắc là bạn muốn thiết lập lại bộ đếm?</string>
   <string name="ok">OK</string>
   <string name="security_privacy_settings_title">An ninh &amp; bảo mật</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">Bộ phận pháp chế của LineageOS</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Bộ phận pháp chế của Ridon</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Âm thanh điều chỉnh âm lượng</string>
   <!-- Wake on plug -->

@@ -280,8 +280,8 @@
   <string name="app_ops_reset_confirm_title">Підтвердити скидання лічильників</string>
   <string name="app_ops_reset_confirm_mesg">Ви впевнені що хочете скинути лічильники?</string>
   <string name="ok">OK</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">Політика конфіденційності LineageOS</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Політика конфіденційності Ridon</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Звуки регулювання гучності</string>
   <!-- Wake on plug -->

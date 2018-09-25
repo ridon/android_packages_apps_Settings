@@ -311,8 +311,8 @@
   <string name="app_ops_reset_confirm_mesg">בטוח שברצונך לאפס מונים?</string>
   <string name="ok">אישור</string>
   <string name="security_privacy_settings_title">פרטיות ואבטחה</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">LineageOS משפטי</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Ridon משפטי</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">צליל שינוי עוצמת קול</string>
   <!-- Wake on plug -->

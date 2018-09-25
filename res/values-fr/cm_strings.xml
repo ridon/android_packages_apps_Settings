@@ -310,8 +310,8 @@ Vous êtes maintenant à <xliff:g id="step_count">%1$d</xliff:g> étapes de l\'a
   <string name="app_ops_reset_confirm_mesg">Êtes-vous sûr de vouloir réinitialiser les compteurs ?</string>
   <string name="ok">OK</string>
   <string name="security_privacy_settings_title">Sécurité &amp; confidentialité</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">Infos légales LineageOS</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Infos légales Ridon</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Son lors du réglage du volume</string>
   <!-- Wake on plug -->

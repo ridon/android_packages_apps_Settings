@@ -308,8 +308,8 @@
   <string name="app_ops_reset_confirm_mesg">Jeste li sigurni da želite ponovo postaviti brojila?</string>
   <string name="ok">U redu</string>
   <string name="security_privacy_settings_title">Sigurnost i privatnost</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">LineageOS licenca</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Ridon licenca</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Zvuk podešavanja glasnoće</string>
   <!-- Wake on plug -->

@@ -275,8 +275,8 @@
   <string name="app_ops_reset_confirm_title">Bekräfta räknaråterställning</string>
   <string name="app_ops_reset_confirm_mesg">Är du säker på att du vill återställa räknarna?</string>
   <string name="ok">OK</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">LineageOS Juridik</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Ridon Juridik</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Ljud vid volymjustering</string>
   <!-- Wake on plug -->

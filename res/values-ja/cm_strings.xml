@@ -308,8 +308,8 @@
   <string name="app_ops_reset_confirm_mesg">カウンターをリセットしてもよろしいですか？</string>
   <string name="ok">OK</string>
   <string name="security_privacy_settings_title">セキュリティとプライバシー</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">LineageOS 利用規約</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Ridon 利用規約</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">音量調整の音</string>
   <!-- Wake on plug -->

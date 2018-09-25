@@ -283,8 +283,8 @@
   <string name="app_ops_reset_confirm_title">Bevestig tellers terugstel</string>
   <string name="app_ops_reset_confirm_mesg">Is jy seker jy wil tellers herstel?</string>
   <string name="ok">OK</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">LineageOS Regs</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Ridon Regs</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Volume verander klanke</string>
   <!-- Wake on plug -->

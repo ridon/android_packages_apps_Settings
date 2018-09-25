@@ -199,8 +199,8 @@
   <string name="app_ops_reset_confirm_title">Kinnita loendurite lähetstamine</string>
   <string name="app_ops_reset_confirm_mesg">Kas sa oled kindel, et soovid loendurid lähtestada?</string>
   <string name="ok">OK</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">LineageOS juriidiline info</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Ridon juriidiline info</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Helitugevuse muutmise helid</string>
   <!-- Wake on plug -->

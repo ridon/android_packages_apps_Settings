@@ -267,8 +267,8 @@
   <string name="app_ops_reset_confirm_title">கவுண்ட்டர் மறுவமைப்பை உறுதிசெய்</string>
   <string name="app_ops_reset_confirm_mesg">நீங்கள் கவுண்ட்டர்களை மறுவமைக்க நிச்சயம் விரும்புகிறீர்களா?</string>
   <string name="ok">சரி</string>
-  <!-- LineageOS legal -->
-  <string name="lineagelicense_title">LineageOS சட்டம்</string>
+  <!-- Ridon legal -->
+  <string name="lineagelicense_title">Ridon சட்டம்</string>
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">வால்யூம் சரிசெய்தல் ஆடியோகள்</string>
   <!-- Wake on plug -->
